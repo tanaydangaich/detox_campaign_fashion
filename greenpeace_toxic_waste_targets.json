@@ -1,0 +1,426 @@
+{
+  "metadata": {
+    "title": "Public Companies Targeted by Greenpeace for Toxic Waste",
+    "description": "A comprehensive list of public companies targeted by Greenpeace campaigns specifically for toxic waste pollution including air, land, water, and nuclear waste",
+    "last_updated": "2025-12-05",
+    "source": "Greenpeace campaigns and reports"
+  },
+  "categories": {
+    "fashion_and_textiles": {
+      "description": "Companies targeted by Greenpeace's Detox Campaign launched in 2011 to eliminate hazardous chemicals from textile production that pollute waterways",
+      "campaign_name": "Detox My Fashion",
+      "toxic_waste_types": ["water pollution", "hazardous chemicals", "PFCs (perfluorinated chemicals)", "alkylphenols", "hormone disruptors"],
+      "companies": [
+        {
+          "name": "H&M",
+          "ticker": "HM-B.ST",
+          "country": "Sweden",
+          "public": true,
+          "issues": "Textile production releasing toxic chemicals into Chinese rivers",
+          "status": "Committed to Detox pledge 2020",
+          "pollution_type": "water"
+        },
+        {
+          "name": "Zara (Inditex)",
+          "ticker": "ITX.MC",
+          "country": "Spain",
+          "public": true,
+          "issues": "Textile production releasing toxic chemicals into waterways",
+          "status": "Committed to Detox pledge 2020",
+          "pollution_type": "water"
+        },
+        {
+          "name": "Nike",
+          "ticker": "NKE",
+          "country": "USA",
+          "public": true,
+          "issues": "Hazardous chemicals in sportswear manufacturing, water pollution in supplier factories",
+          "status": "Committed to Detox pledge 2020",
+          "pollution_type": "water"
+        },
+        {
+          "name": "Adidas",
+          "ticker": "ADS.DE",
+          "country": "Germany",
+          "public": true,
+          "issues": "Hazardous chemicals in sportswear manufacturing, PFCs in products",
+          "status": "Committed to Detox pledge 2020",
+          "pollution_type": "water"
+        },
+        {
+          "name": "Puma",
+          "ticker": "PUM.DE",
+          "country": "Germany",
+          "public": true,
+          "issues": "Toxic chemicals in sportswear production",
+          "status": "Committed to Detox pledge 2020",
+          "pollution_type": "water"
+        },
+        {
+          "name": "Primark (Associated British Foods)",
+          "ticker": "ABF.L",
+          "country": "UK",
+          "public": true,
+          "issues": "Toxic chemicals in fast fashion production",
+          "status": "Committed to Detox pledge 2020",
+          "pollution_type": "water"
+        },
+        {
+          "name": "Tchibo (Maxingvest AG)",
+          "ticker": "Private",
+          "country": "Germany",
+          "public": false,
+          "issues": "Toxic chemicals in clothing production",
+          "status": "Committed to Detox pledge 2020",
+          "pollution_type": "water"
+        },
+        {
+          "name": "Aldi (Aldi Süd)",
+          "ticker": "Private",
+          "country": "Germany",
+          "public": false,
+          "issues": "Toxic chemicals in retail clothing products",
+          "status": "Committed to Detox pledge 2020",
+          "pollution_type": "water"
+        },
+        {
+          "name": "Lidl (Schwarz Gruppe)",
+          "ticker": "Private",
+          "country": "Germany",
+          "public": false,
+          "issues": "Toxic chemicals in retail clothing products",
+          "status": "Committed to Detox pledge 2020",
+          "pollution_type": "water"
+        }
+      ]
+    },
+    "oil_and_gas": {
+      "description": "Oil and gas companies targeted for toxic waste dumping, fracking pollution, and plastic production",
+      "toxic_waste_types": ["toxic sludge", "hydrocarbon chemicals", "volatile organic compounds", "fracking waste", "plastic pollution", "oil waste"],
+      "companies": [
+        {
+          "name": "Shell (Royal Dutch Shell)",
+          "ticker": "SHEL",
+          "country": "UK/Netherlands",
+          "public": true,
+          "issues": "Illegal toxic waste dumps from fracking in Patagonia, North Sea oil waste dumping, plastic production, microplastic chemical lobbying",
+          "campaign": "Patagonia fracking investigation, North Sea oil platform decommissioning",
+          "pollution_type": "land, water"
+        },
+        {
+          "name": "TotalEnergies (formerly Total)",
+          "ticker": "TTE",
+          "country": "France",
+          "public": true,
+          "issues": "Illegal toxic waste dumps from fracking in Patagonia",
+          "campaign": "Patagonia fracking investigation",
+          "pollution_type": "land, water"
+        },
+        {
+          "name": "ExxonMobil",
+          "ticker": "XOM",
+          "country": "USA",
+          "public": true,
+          "issues": "Toxic waste from fracking in Patagonia, plastic production expansion, microplastic chemical lobbying",
+          "campaign": "Patagonia fracking investigation, plastics treaty lobbying",
+          "pollution_type": "land, water"
+        },
+        {
+          "name": "BP",
+          "ticker": "BP",
+          "country": "UK",
+          "public": true,
+          "issues": "Pan American Energy (BP subsidiary) dumping toxic fracking waste in Patagonia, microplastic chemical lobbying",
+          "campaign": "Patagonia fracking investigation",
+          "pollution_type": "land, water"
+        }
+      ]
+    },
+    "chemicals": {
+      "description": "Chemical companies targeted for PFAS 'forever chemicals' and toxic chemical production",
+      "toxic_waste_types": ["PFAS (forever chemicals)", "PFOA", "C-8", "toxic chemical releases", "water contamination"],
+      "companies": [
+        {
+          "name": "3M",
+          "ticker": "MMM",
+          "country": "USA",
+          "public": true,
+          "issues": "PFAS 'forever chemicals' production and contamination, concealed health hazards since 1960s, exploiting regulatory loopholes",
+          "legal_status": "$12.5 billion settlement for PFAS contamination",
+          "pollution_type": "water, air"
+        },
+        {
+          "name": "DuPont (now DuPont de Nemours)",
+          "ticker": "DD",
+          "country": "USA",
+          "public": true,
+          "issues": "PFAS production and water contamination, concealed health risks since 1970s, C-8 contamination in North Carolina",
+          "legal_status": "$1.2 billion settlement, UN condemnation",
+          "pollution_type": "water, air"
+        },
+        {
+          "name": "Chemours (spun off from DuPont)",
+          "ticker": "CC",
+          "country": "USA",
+          "public": true,
+          "issues": "Continued discharge of PFAS into Cape Fear River, North Carolina despite known health risks",
+          "legal_status": "UN human rights condemnation",
+          "pollution_type": "water"
+        },
+        {
+          "name": "Dow Chemical (now Dow Inc.)",
+          "ticker": "DOW",
+          "country": "USA",
+          "public": true,
+          "issues": "PFAS releases exploiting regulatory loopholes, microplastic chemical lobbying",
+          "pollution_type": "water, air"
+        },
+        {
+          "name": "BASF",
+          "ticker": "BAS.DE",
+          "country": "Germany",
+          "public": true,
+          "issues": "Lobbying against regulation of UV-328 plastic additive chemical",
+          "pollution_type": "water"
+        },
+        {
+          "name": "INEOS",
+          "ticker": "Private",
+          "country": "UK",
+          "public": false,
+          "issues": "Plastic production expansion, lobbying against plastics treaty",
+          "pollution_type": "water"
+        }
+      ]
+    },
+    "coal_and_energy": {
+      "description": "Coal power companies targeted for air pollution, particulate matter, and toxic emissions",
+      "toxic_waste_types": ["sulfur dioxide (SO2)", "nitrogen oxides (NOx)", "particulate matter (PM)", "mercury (Hg)", "hydrochloric acid (HCl)", "coal ash"],
+      "companies": [
+        {
+          "name": "RWE",
+          "ticker": "RWE.DE",
+          "country": "Germany",
+          "public": true,
+          "issues": "Largest lignite coal burner in Europe, responsible for thousands of premature deaths, health costs of €48 per MWh",
+          "campaign": "European coal health impact report",
+          "pollution_type": "air"
+        },
+        {
+          "name": "EPH (Energetický a průmyslový holding)",
+          "ticker": "Private",
+          "country": "Czech Republic",
+          "public": false,
+          "issues": "Second worst coal company in Europe, burning highly polluting lignite coal",
+          "campaign": "European coal health impact report",
+          "pollution_type": "air"
+        }
+      ]
+    },
+    "nuclear": {
+      "description": "Nuclear companies targeted for radioactive waste dumping and unsafe storage",
+      "toxic_waste_types": ["radioactive waste", "nuclear fuel waste", "uranium enrichment waste"],
+      "companies": [
+        {
+          "name": "Orano (formerly Areva)",
+          "ticker": "Private (majority French state-owned)",
+          "country": "France",
+          "public": false,
+          "issues": "Dumping radioactive waste at unsafe site in Seversk, Siberia, restarted exports after 11-year hiatus",
+          "campaign": "Nuclear waste exports to Russia",
+          "pollution_type": "nuclear"
+        },
+        {
+          "name": "EDF (Électricité de France)",
+          "ticker": "EDF.PA",
+          "country": "France",
+          "public": true,
+          "issues": "Nuclear waste shipments to Russia (Rosatom deal 2018)",
+          "campaign": "Nuclear waste exports to Russia",
+          "pollution_type": "nuclear"
+        },
+        {
+          "name": "UKAEA (UK Atomic Energy Authority)",
+          "ticker": "Public body",
+          "country": "UK",
+          "public": false,
+          "issues": "Nuclear waste disposal at sea in 1970s-80s",
+          "campaign": "Historical nuclear ocean dumping",
+          "pollution_type": "nuclear, water"
+        }
+      ]
+    },
+    "electronics_and_tech": {
+      "description": "Electronics companies targeted for toxic chemicals in products, e-waste, and hazardous manufacturing",
+      "toxic_waste_types": ["e-waste", "PVC", "BFRs (brominated flame retardants)", "toxic chemicals in manufacturing"],
+      "companies": [
+        {
+          "name": "Samsung Electronics",
+          "ticker": "005930.KS",
+          "country": "South Korea",
+          "public": true,
+          "issues": "Failing grades in Greenpeace Guide to Greener Electronics, toxic chemicals, dirty energy, short-lived products difficult to recycle, major e-waste contributor",
+          "campaign": "Guide to Greener Electronics",
+          "pollution_type": "land, water"
+        },
+        {
+          "name": "Amazon",
+          "ticker": "AMZN",
+          "country": "USA",
+          "public": true,
+          "issues": "Failing grades in electronics sustainability, few details on hazardous chemical restrictions in devices and supply chain",
+          "campaign": "Guide to Greener Electronics",
+          "pollution_type": "land, water"
+        },
+        {
+          "name": "Huawei",
+          "ticker": "Private",
+          "country": "China",
+          "public": false,
+          "issues": "Failing grades in electronics sustainability, toxic chemicals in products",
+          "campaign": "Guide to Greener Electronics",
+          "pollution_type": "land, water"
+        },
+        {
+          "name": "Apple",
+          "ticker": "AAPL",
+          "country": "USA",
+          "public": true,
+          "issues": "Major e-waste contributor, planned obsolescence concerns, though better transparency on restricted substances",
+          "campaign": "Guide to Greener Electronics",
+          "rating": "B- (better than most)",
+          "pollution_type": "land"
+        },
+        {
+          "name": "Microsoft",
+          "ticker": "MSFT",
+          "country": "USA",
+          "public": true,
+          "issues": "Moving in wrong direction on sustainable product design, though publishes restricted substances list",
+          "campaign": "Guide to Greener Electronics",
+          "pollution_type": "land"
+        },
+        {
+          "name": "Dell Technologies",
+          "ticker": "DELL",
+          "country": "USA",
+          "public": true,
+          "issues": "Committed to phase out PVC and BFRs but limited follow-through",
+          "campaign": "Guide to Greener Electronics",
+          "pollution_type": "land, water"
+        },
+        {
+          "name": "HP Inc.",
+          "ticker": "HPQ",
+          "country": "USA",
+          "public": true,
+          "issues": "Committed to phase out PVC and BFRs but limited follow-through",
+          "campaign": "Guide to Greener Electronics",
+          "pollution_type": "land, water"
+        },
+        {
+          "name": "Lenovo",
+          "ticker": "0992.HK",
+          "country": "China",
+          "public": true,
+          "issues": "Committed to phase out PVC and BFRs but limited follow-through",
+          "campaign": "Guide to Greener Electronics",
+          "pollution_type": "land, water"
+        },
+        {
+          "name": "LG Electronics",
+          "ticker": "066570.KS",
+          "country": "South Korea",
+          "public": true,
+          "issues": "Committed to phase out PVC and BFRs but limited follow-through",
+          "campaign": "Guide to Greener Electronics",
+          "pollution_type": "land, water"
+        },
+        {
+          "name": "Acer",
+          "ticker": "2353.TW",
+          "country": "Taiwan",
+          "public": true,
+          "issues": "Committed to phase out PVC and BFRs but limited follow-through",
+          "campaign": "Guide to Greener Electronics",
+          "pollution_type": "land, water"
+        },
+        {
+          "name": "Oppo",
+          "ticker": "Private",
+          "country": "China",
+          "public": false,
+          "issues": "Failing grade, toxic chemicals and dirty energy",
+          "campaign": "Guide to Greener Electronics",
+          "pollution_type": "land, water"
+        },
+        {
+          "name": "Vivo",
+          "ticker": "Private",
+          "country": "China",
+          "public": false,
+          "issues": "Failing grade, toxic chemicals and dirty energy",
+          "campaign": "Guide to Greener Electronics",
+          "pollution_type": "land, water"
+        },
+        {
+          "name": "Xiaomi",
+          "ticker": "1810.HK",
+          "country": "China",
+          "public": true,
+          "issues": "Failing grade, toxic chemicals and dirty energy",
+          "campaign": "Guide to Greener Electronics",
+          "pollution_type": "land, water"
+        }
+      ]
+    },
+    "consumer_goods_and_plastics": {
+      "description": "Consumer goods companies targeted for plastic pollution and single-use packaging",
+      "toxic_waste_types": ["plastic waste", "microplastics", "packaging pollution"],
+      "companies": [
+        {
+          "name": "Coca-Cola",
+          "ticker": "KO",
+          "country": "USA",
+          "public": true,
+          "issues": "Retracting sustainability commitments while continuing single-use plastic packaging",
+          "campaign": "Plastic pollution campaigns",
+          "pollution_type": "land, water"
+        },
+        {
+          "name": "Unilever",
+          "ticker": "UL",
+          "country": "UK/Netherlands",
+          "public": true,
+          "issues": "Retracting sustainability commitments while continuing single-use plastic packaging",
+          "campaign": "Plastic pollution campaigns",
+          "pollution_type": "land, water"
+        },
+        {
+          "name": "Nestlé",
+          "ticker": "NSRGY",
+          "country": "Switzerland",
+          "public": true,
+          "issues": "Retracting sustainability commitments while continuing single-use plastic packaging",
+          "campaign": "Plastic pollution campaigns",
+          "pollution_type": "land, water"
+        }
+      ]
+    }
+  },
+  "summary_statistics": {
+    "total_public_companies": 34,
+    "by_pollution_type": {
+      "water": 28,
+      "air": 4,
+      "land": 18,
+      "nuclear": 3
+    },
+    "by_region": {
+      "USA": 16,
+      "Europe": 12,
+      "Asia": 9,
+      "Other": 1
+    }
+  }
+}

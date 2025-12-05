@@ -1,0 +1,31 @@
+Company Name,Ticker,Country,Public,Category,Toxic Waste Issues,Pollution Type,Campaign/Status,Legal/Financial Impact
+H&M,HM-B.ST,Sweden,TRUE,Fashion & Textiles,Textile production releasing toxic chemicals into Chinese rivers,water,Detox My Fashion - Committed to 2020 pledge,
+Zara (Inditex),ITX.MC,Spain,TRUE,Fashion & Textiles,Textile production releasing toxic chemicals into waterways,water,Detox My Fashion - Committed to 2020 pledge,
+Nike,NKE,USA,TRUE,Fashion & Textiles,Hazardous chemicals in sportswear manufacturing and water pollution,water,Detox My Fashion - Committed to 2020 pledge,
+Adidas,ADS.DE,Germany,TRUE,Fashion & Textiles,Hazardous chemicals in sportswear manufacturing and PFCs,water,Detox My Fashion - Committed to 2020 pledge,
+Puma,PUM.DE,Germany,TRUE,Fashion & Textiles,Toxic chemicals in sportswear production,water,Detox My Fashion - Committed to 2020 pledge,
+Primark (Associated British Foods),ABF.L,UK,TRUE,Fashion & Textiles,Toxic chemicals in fast fashion production,water,Detox My Fashion - Committed to 2020 pledge,
+Shell,SHEL,UK/Netherlands,TRUE,Oil & Gas,Illegal toxic fracking waste dumps in Patagonia; North Sea oil waste,land/water,Patagonia investigation; North Sea platform protests,
+TotalEnergies,TTE,France,TRUE,Oil & Gas,Illegal toxic waste dumps from fracking in Patagonia,land/water,Patagonia fracking investigation,
+ExxonMobil,XOM,USA,TRUE,Oil & Gas,Toxic fracking waste in Patagonia; plastic production expansion,land/water,Patagonia investigation; plastics treaty lobbying,
+BP,BP,UK,TRUE,Oil & Gas,Pan American Energy toxic fracking waste dumping in Patagonia,land/water,Patagonia fracking investigation,
+3M,MMM,USA,TRUE,Chemicals,PFAS forever chemicals production and contamination since 1960s,water/air,Multiple PFAS campaigns,$12.5 billion settlement
+DuPont,DD,USA,TRUE,Chemicals,PFAS production and C-8 water contamination since 1970s,water/air,PFAS campaigns; UN condemnation,$1.2 billion settlement
+Chemours,CC,USA,TRUE,Chemicals,Continued PFAS discharge into Cape Fear River North Carolina,water,PFAS campaigns; UN condemnation,UN human rights condemnation
+Dow Chemical,DOW,USA,TRUE,Chemicals,PFAS releases exploiting regulatory loopholes,water/air,PFAS campaigns,
+BASF,BAS.DE,Germany,TRUE,Chemicals,Lobbying against regulation of UV-328 plastic additive,water,Microplastics lobbying investigation,
+RWE,RWE.DE,Germany,TRUE,Coal & Energy,Largest lignite coal burner in Europe causing thousands of deaths,air,European coal health impact report,"€48/MWh health costs, 7600+ deaths annually"
+EDF,EDF.PA,France,TRUE,Nuclear,Nuclear waste shipments to Russia,nuclear,Nuclear waste exports campaign,
+Samsung Electronics,005930.KS,South Korea,TRUE,Electronics & Tech,Toxic chemicals; short-lived products; major e-waste contributor,land/water,Guide to Greener Electronics - Failing grade,
+Amazon,AMZN,USA,TRUE,Electronics & Tech,Poor hazardous chemical restrictions in devices and supply chain,land/water,Guide to Greener Electronics - Failing grade,
+Apple,AAPL,USA,TRUE,Electronics & Tech,Major e-waste contributor; planned obsolescence,land,Guide to Greener Electronics - B- grade,
+Microsoft,MSFT,USA,TRUE,Electronics & Tech,Moving wrong direction on sustainable product design,land,Guide to Greener Electronics,
+Dell Technologies,DELL,USA,TRUE,Electronics & Tech,Limited follow-through on phasing out PVC and BFRs,land/water,Guide to Greener Electronics,
+HP Inc.,HPQ,USA,TRUE,Electronics & Tech,Limited follow-through on phasing out PVC and BFRs,land/water,Guide to Greener Electronics,
+Lenovo,0992.HK,China,TRUE,Electronics & Tech,Limited follow-through on phasing out PVC and BFRs,land/water,Guide to Greener Electronics,
+LG Electronics,066570.KS,South Korea,TRUE,Electronics & Tech,Limited follow-through on phasing out PVC and BFRs,land/water,Guide to Greener Electronics,
+Acer,2353.TW,Taiwan,TRUE,Electronics & Tech,Limited follow-through on phasing out PVC and BFRs,land/water,Guide to Greener Electronics,
+Xiaomi,1810.HK,China,TRUE,Electronics & Tech,Toxic chemicals and dirty energy,land/water,Guide to Greener Electronics - Failing grade,
+Coca-Cola,KO,USA,TRUE,Consumer Goods & Plastics,Retracting sustainability commitments; single-use plastic packaging,land/water,Plastic pollution campaigns,
+Unilever,UL,UK/Netherlands,TRUE,Consumer Goods & Plastics,Retracting sustainability commitments; single-use plastic packaging,land/water,Plastic pollution campaigns,
+Nestlé,NSRGY,Switzerland,TRUE,Consumer Goods & Plastics,Retracting sustainability commitments; single-use plastic packaging,land/water,Plastic pollution campaigns,
