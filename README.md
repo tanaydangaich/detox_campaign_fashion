@@ -39,3 +39,9 @@ Files
 Next steps
 ----------
 - Provide the GitHub remote URL if you want me to add it and push the `main` branch.
+
+Latest
+------
+- Repository pushed to: https://github.com/tanaydangaich/detox_campaign_fashion
+- Local commit: `bc14704` (Add Greenpeace scraper and docs)
+
